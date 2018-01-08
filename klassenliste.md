@@ -8,7 +8,7 @@
 |Dominik |        |
 |Erik    |        |
 |Halid   |        |
-|Hezekiah|        |
+|Hezekiah| X      |
 |James   |        |
 |Jonas   |        |
 |Josiah  |        |
